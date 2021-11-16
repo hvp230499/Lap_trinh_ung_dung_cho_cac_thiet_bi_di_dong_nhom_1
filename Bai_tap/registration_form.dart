@@ -54,7 +54,7 @@ class _RegistrationFormState extends State<RegistrationForm> {
                 {
                   if(value == null || value.isEmpty)
                   {
-                    return "Vui lòng nhập tên!";
+                    return "Vui lòng nhập tên của bạn!";
                   }
                   else
                     {
